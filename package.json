@@ -1,7 +1,7 @@
 {
-  "name": "carl-alvarez",
+  "name": "index.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "ML",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/carl-alvarez/carl-alvarez.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ml"
+  ],
+  "author": "carl alvarez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/carl-alvarez/carl-alvarez/issues"
