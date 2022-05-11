@@ -1,0 +1,15 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 12px;
+}
+
+.productos h3 {
+    font-size: 24px;
+}
+
+.productos .precio {
+    font-size: 18px;
+}
